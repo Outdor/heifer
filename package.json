@@ -1,0 +1,24 @@
+{
+  "name": "heifer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Outdor/heifer.git"
+  },
+  "author": "Keith \"Outdor\" Coggin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Outdor/heifer/issues"
+  },
+  "homepage": "https://github.com/Outdor/heifer#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7"
+  }
+}
